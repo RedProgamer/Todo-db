@@ -6,7 +6,7 @@ const _ = require('lodash');
 const app = express();
 
 // Establishing Mongodb Connection
-mongoose.connect('mongodb+srv://nirmal:omsukhari@cluster0.jjx5b.mongodb.net/simple');
+mongoose.connect('I am not showing you lmao');
 
 // Schema
 const todosSchema = mongoose.Schema({
